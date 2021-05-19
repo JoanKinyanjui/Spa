@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+
+}
+.Navbar{
+     background-image: linear-gradient(to bottom ,saddlebrown,white);
+    height: 100px;
+}
+
+.Navbar-items{
+    margin: auto;
+}
+.Logo101{
+    font-family: System;
+    font-size: xxx-large;
+}
+.list{
+    display: flex;
+}
+.list-items{
+    margin: auto;
+}
+.item-cName{
+    color: black;
+    font-family: System;
+}

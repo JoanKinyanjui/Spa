@@ -1,0 +1,15 @@
+
+.btn--primary{
+    background-color: #1e055d;
+    color: black;
+    cursor: pointer;
+    border: none;
+    transition: all 0.3s ease-out;
+}
+.btn--outline{
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+    border-radius: 2px;
+
+}

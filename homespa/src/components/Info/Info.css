@@ -1,0 +1,46 @@
+.Information {
+    width: 100%;
+    height: 330px;
+    background-image: linear-gradient(to bottom, white,wheat,white);
+}
+.How{
+    font-family: System;
+    font-size: 20px;
+    margin: auto;
+    text-decoration: none;
+
+}
+.How-lists{
+    list-style-type: none;
+    display: flex;
+}
+.How-lists-items{
+    font-family: System;
+    font-size: larger;
+    margin: auto;
+    width: 200px;
+}
+.Numbers{
+    background-image: linear-gradient(to bottom ,white,purple);
+    width: 40px;
+    height: 30px;
+    color: black;
+    border-radius: 100%;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+}
+.Numbers-state{
+    align-content: center;
+    margin-bottom: 20px;
+}
+.Socials{
+    display: flex;
+    list-style-type: none;
+}
+.Social-accounts{
+    margin: auto;
+    font-family: System;
+    margin-bottom: 20px;
+    text-align: center;
+}

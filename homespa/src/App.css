@@ -1,0 +1,10 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.App{
+  min-width: 100%;
+  height: max-content;
+  background-color: white;
+  position: static;
+}

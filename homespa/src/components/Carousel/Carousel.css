@@ -1,0 +1,31 @@
+.Thee{
+    margin: auto;
+    font-family: "Script MT";
+    text-align: center;
+}
+.Products{
+    width: 100%;
+    height: min-content;
+    background: white;
+    margin: auto;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.Buy{
+    width: 200px;
+    height: 330px;
+    margin: auto;
+}
+.Products-img{
+    width: 200px;
+    height: 300px;
+
+}
+.Products-name{
+    background-image: linear-gradient(white,purplegit remote add origin https://github.com/JoanKinyanjui/project1.git);
+    font-family: "Script MT";
+    margin-top: 20px;
+    margin: auto;
+    text-align: center;
+}

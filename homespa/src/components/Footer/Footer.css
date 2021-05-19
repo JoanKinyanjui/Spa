@@ -1,0 +1,37 @@
+.footer{
+    width: 100%;
+    height: max-content;
+}
+.list{
+    display: flex;
+
+    list-style-type: none;
+
+
+}
+.item{
+     font-family: System;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150px;
+    align-content: space-around;
+
+}
+.head{
+    font-weight: bold;
+    font-family: System;
+    text-align: justify;
+    position: center;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.label {
+    font-family: "Modern No. 20";
+    font-size: 30px;
+}
+.motto{
+    font-family: "Script MT";
+    font-size: 20px;
+}
