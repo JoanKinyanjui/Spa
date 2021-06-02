@@ -1,28 +1,27 @@
-*{
-    padding: 0px;
-    margin: 0px;
-    position: relative;
+* {
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+}
+.Navbar {
+  background-image: linear-gradient(to bottom, saddlebrown, white);
+  height: 100px;
+}
 
+.Navbar-items {
+  margin: auto;
 }
-.Navbar{
-     background-image: linear-gradient(to bottom ,saddlebrown,white);
-    height: 100px;
+.Logo101 {
+  font-family: System;
+  font-size: xxx-large;
 }
-
-.Navbar-items{
-    margin: auto;
+.list {
+  display: flex;
 }
-.Logo101{
-    font-family: System;
-    font-size: xxx-large;
+.list-items {
+  margin: auto;
 }
-.list{
-    display: flex;
-}
-.list-items{
-    margin: auto;
-}
-.item-cName{
-    color: black;
-    font-family: System;
+.item-cName {
+  color: black;
+  font-family: System;
 }
